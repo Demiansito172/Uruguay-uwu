@@ -1,38 +1,39 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Uruguay",
+		"leaderName": "Fructuoso Rivera",
+		"adjective": ["Oriental"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "La Republica Oriental del Uruguay, como lo indica su nombre, es una Republica ubicada en la parte Oriental del río Uruguay.",
+		"startIntroPart2": "Un país Hispanoamericano cuya relevancia y tamaño son bastante reducidas comparandolo con sus dos vecinos, Argentina y Brasil",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Este ataque no se ignorara así de facil, me temo que tendremos que accionar...",
+		"attacked": "No dejaremos que la Patria caiga así nomás, lucharemos hasta el final! LIBERTAD O MUERTE!!!",
+		"defeated": "Orientales, lo hemos dado todo para defender nuestra Libertad, pero el enemigo nos ah derrotado, asi que morimos por ella...",
+		"introduction": "Bienvenido a la Provincia Oriental, forastero!.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Saludos!, el pueblo Oriental los recibe con entusiasmo.",
+		"neutralLetsHearIt": ["Dinos, que se te ofrece?.","Que te parece?","Bien, hazlo tu primero."],
+		"neutralNo": ["Curiosa oferta, pero me temo que no podre aceptarla.","No acepto esta oferta, mis disculpas.","Rechazo la oferta."],
+		"neutralYes": ["Sera un honor aceptar su oferta.","Es una oferta tentadora, me parece bien.","Sera un gran beneficio!."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Que quieres de nosotros? no te confies de nuestra pequeñez",
+		"hateLetsHearIt": ["Bien, habla!","Que es merecedor de irrumpir nuestra paz?","Nuestra relación es tensa, pero estoy dispuesto a escuchar."],
+		"hateNo": ["No aceptaremos tal aberración!!","Tu oferta es inaceptable y poco realista","Haré lo que sea para impedir tal amenaza para mi pueblo!"],
+		"hateYes": ["Tendremos diferencias, sin embargo, creo que nos beneficiara bastante.","Lo tomare, pero me ofende muchisimo.","Esta bien..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Esta guerra solo esta trayendo perdidas inecesarias y creemos que es hora de plantearnos la paz, si no acepta, con entusiasmo y valor, seguiremos luchando!.",
+		"tradeRequest": "Estoy dispuesto a negociar una oferta.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [169,30,30],
+		"innerColor": [30,30,123],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Nacionalismo Oriental",
+		"uniques": "["[+10 Culture] [in all cities] <before discovering [Steam Power]>"]",
+		"cities": ["Montevideo","Maldonado","Mercedes","Paysandú","Colonia del Sacramento","San José de Mayo","Trinidad","Durazno","Canelones",
+			"Rocha","Minas","Florida","Treinta y Tres","Melo","Rivera","Tacuarembó","Artigas","Salto","Fray Bentos",
+			"San Gregorio de Polanco","Punta del Este","Nueva Palmira","Masoller","Bella Union","Cardona","Carmelo","Aceguá","Baltasar Brum","Dolores",
+			"Chuy","San Javier","Nuevo Berlín","Young","Belén","Sarandí del Yi"]
 	}
 ]
