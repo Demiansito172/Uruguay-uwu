@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Milicia",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Uruguay",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
